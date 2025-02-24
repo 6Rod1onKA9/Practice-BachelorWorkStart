@@ -32,3 +32,8 @@ Also, that was frontend part, now, let me meet you with the database part. I hav
 
 That's it, that has a small part of my plan. More to know in the video!
 
+
+[Link to the 1st part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
+
+[Link to the 2nd part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
+
