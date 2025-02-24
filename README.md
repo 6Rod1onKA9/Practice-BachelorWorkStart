@@ -1,6 +1,10 @@
 # Practice-BachelorWorkStart
 Here at this branch I will show a part of what I have been developing for my bachelor work during the practice time!
 
+[Link to the 1st part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
+
+[Link to the 2nd part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
+
 So, let me present you what I have been working on lately. This is a web application for the park of attraction. Idea of it is to be a navigator, which consists of ticket buying system, having offer for food and so on. Additionally, I have created a so-called admin panel, which could show some statistic of the park system.
 
 So, let's begin with the admin panel, that allows us to add things, that the members can have it in the cars later. But firtsly, we have to login there. Our admin is called Elias, therefore, he is entering by his name and password
@@ -31,9 +35,3 @@ Also, that was frontend part, now, let me meet you with the database part. I hav
 
 
 That's it, that has a small part of my plan. More to know in the video!
-
-
-[Link to the 1st part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
-
-[Link to the 2nd part of the video](https://www.youtube.com/watch?v=xGfcIoN01y0&ab_channel=RodionRodion)
-
